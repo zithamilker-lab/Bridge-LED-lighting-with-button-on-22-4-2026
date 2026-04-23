@@ -26,3 +26,4 @@ void loop() {
     digitalWrite(led3, LOW);
   }r
 }
+<img width="1536" height="1024" alt="file_000000009b54722f8b37d3998bcf0dfe" src="https://github.com/user-attachments/assets/a4d7cad1-b4bc-4e43-92cf-9054fb21aee2" />
